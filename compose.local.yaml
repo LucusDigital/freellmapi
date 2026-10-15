@@ -1,0 +1,4 @@
+# Local long-running API service; official v0.14.2 image, pinned by digest.
+services:
+  freellmapi:
+    image: ghcr.io/tashfeenahmed/freellmapi@sha256:1fac88baac2ac2b847b52240008d9abdf01d084ccc55937438a62a7c569aeab1
